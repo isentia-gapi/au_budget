@@ -1,9 +1,9 @@
-geoName,AU Budget,Australian Parliament,Federal Budget,Monetary policy,Jim Chalmers
-Australian Capital Territory,0,62,11,0,27
-New South Wales,0,33,15,20,32
-Northern Territory,0,0,0,0,0
-Queensland,5,37,8,5,45
-South Australia,0,47,14,0,39
-Tasmania,0,0,100,0,0
-Victoria,7,36,11,15,31
-Western Australia,0,34,19,26,21
+geoName,Federal Budget,Jim Chalmers,Monetary Policy,Australian Parliament
+Australian Capital Territory,42,0,0,58
+New South Wales,11,29,26,34
+Northern Territory,0,100,0,0
+Queensland,24,47,11,18
+South Australia,0,41,25,34
+Tasmania,100,0,0,0
+Victoria,9,41,13,37
+Western Australia,0,13,59,28
