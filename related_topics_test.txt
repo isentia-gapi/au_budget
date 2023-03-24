@@ -1,0 +1,9 @@
+{'Federal Budget': {'rising': Empty DataFrame
+Columns: []
+Index: [], 'top':    value formattedValue  ...                   topic_title         topic_type
+0    100            100  ...                          2023              Topic
+1     70             70  ...     Australian federal budget              Topic
+2     63             63  ...  United States federal budget              Topic
+3     27             27  ...                    Government  Organization type
+
+[4 rows x 7 columns]}}
