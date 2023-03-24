@@ -1,45 +1,7 @@
-,Australian Parliament
-rising,"     value  ...                                    topic_type
-0   809850  ...                                    Government
-1   780200  ...                                        Ensign
-2   671600  ...                                         Topic
-3   596550  ...                                Field of study
-4   565800  ...                                         Topic
-5   456500  ...                              Australian State
-6   433950  ...                       Official symbol variety
-7   404000  ...                          Australian Territory
-8   359800  ...                            Form of government
-9   344200  ...                                         Topic
-10     110  ...                          Social and political
-11      70  ...                                         Topic
-12      60  ...  Government office in Capital Hill, Australia
-
-[13 rows x 6 columns]"
-top,"    value  ...                                    topic_type
-0     100  ...                            Country in Oceania
-1      56  ...                                         Topic
-2      47  ...                                         Topic
-3      23  ...                                     Ethnicity
-4      17  ...                             Organization type
-5      14  ...                                         Topic
-6      12  ...  Government office in Capital Hill, Australia
-7       9  ...                                    Government
-8       8  ...                                        Ensign
-9       8  ...                                         Topic
-10      7  ...                                         Topic
-11      7  ...                                         Topic
-12      7  ...                          Social and political
-13      7  ...                                         Topic
-14      6  ...                                  Constitution
-15      6  ...                                Field of study
-16      6  ...                                         Topic
-17      6  ...                                         Topic
-18      6  ...                                        People
-19      5  ...                                         Topic
-20      5  ...                                  Constitution
-21      5  ...                                    Government
-22      5  ...                              Australian State
-23      5  ...                       Official symbol variety
-24      4  ...                          Australian Territory
-
-[25 rows x 7 columns]"
+,value,formattedValue,hasData,link,topic_mid,topic_title,topic_type
+0,100,100,True,/trends/explore?q=/g/11b77b4nfc&date=today+1-m&geo=AU,/g/11b77b4nfc,2023,Topic
+1,85,85,True,/trends/explore?q=/m/062zfr&date=today+1-m&geo=AU,/m/062zfr,Australian federal budget,Topic
+2,70,70,True,/trends/explore?q=/m/0b4h0x&date=today+1-m&geo=AU,/m/0b4h0x,United States federal budget,Topic
+3,62,62,True,/trends/explore?q=/g/11b77qrp3l&date=today+1-m&geo=AU,/g/11b77qrp3l,2022,Topic
+4,44,44,True,/trends/explore?q=/m/036nz&date=today+1-m&geo=AU,/m/036nz,Government,Organization type
+5,16,16,True,/trends/explore?q=/m/0bz4tv&date=today+1-m&geo=AU,/m/0bz4tv,Government budget,Topic
