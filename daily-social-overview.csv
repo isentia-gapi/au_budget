@@ -1,4 +1,4 @@
-Social Media Channel,Volume
-Blogs,2.0
-Forum,2.0
-Twitter,96.0
+Social Media Channel,commentsCount,likesCount,sharesCount,Engagement
+Blogs,0,0,0,0.0
+Forum,0,0,0,0.0
+Twitter,0,20,8,100.0
