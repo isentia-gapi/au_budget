@@ -1,26 +1,26 @@
 ,Politicians,"April 18, 2023","April 19, 2023","April 20, 2023","April 21, 2023","April 17, 2023","April 16, 2023","April 15, 2023","April 14, 2023"
-0,Jim Chalmers: Treasurer,28,12,53.0,12.0,45,0,0,0
-1,Anthony Albanese: Prime Minister,24,15,20.0,2.0,40,0,0,0
-2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,17,7,6.0,1.0,6,0,0,0
+0,Jim Chalmers: Treasurer,28,12,53.0,21.0,45,0,0,0
+1,Anthony Albanese: Prime Minister,24,15,20.0,5.0,40,0,0,0
+2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,17,7,6.0,2.0,6,0,0,0
 3,Chris Bowen: Minister for Climate Change & Energy,16,7,4.0,0.0,15,0,0,0
-4,Mark Butler: Minister for Health & Aged Care,15,8,13.0,1.0,27,0,0,0
+4,Mark Butler: Minister for Health & Aged Care,15,8,13.0,2.0,27,0,0,0
 5,Peter Dutton: Leader of the Opposition,14,4,1.0,0.0,5,0,0,0
 6,Tanya Plibesek: Minister for the Environment & Water,13,6,4.0,1.0,10,0,0,0
 7,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,10,5,3.0,0.0,5,0,0,0
-8,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,9,10,9.0,4.0,3,0,0,0
-9,Penny Wong: Minister for Foreign Affairs,9,8,13.0,0.0,14,0,0,0
+8,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,9,10,9.0,7.0,3,0,0,0
+9,Penny Wong: Minister for Foreign Affairs,9,8,13.0,1.0,14,0,0,0
 10,Simon Birmingham: Shadow Minister for Foreign Affairs,8,5,14.0,1.0,9,0,0,0
-11,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,7,2,10.0,0.0,4,0,0,0
+11,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,7,2,10.0,1.0,4,0,0,0
 12,Mark Dreyfus: Attorney-General Cabinet Secretary,7,4,7.0,0.0,9,0,0,0
 13,Barnaby Joyce: Shadow Minister for Veterans’Affairs,6,1,2.0,0.0,1,0,0,0
-14,Andrew Leigh: Assistant Minister for Competition; Charities & Treasury,6,1,4.0,1.0,1,0,0,0
+14,Andrew Leigh: Assistant Minister for Competition; Charities & Treasury,6,1,4.0,2.0,1,0,0,0
 15,David Pocock: Independent Senator for the ACT,6,5,4.0,0.0,6,0,0,0
-16,Angus Taylor: Shadow Treasurer,6,4,3.0,7.0,5,0,0,0
+16,Angus Taylor: Shadow Treasurer,6,4,3.0,14.0,5,0,0,0
 17,David Littleproud: Shadow Minister for Agriculture,5,2,2.0,0.0,5,0,0,0
 18,Marise Payne: Shadow Cabinet Secretary,5,1,6.0,0.0,6,0,0,0
 19,Andrew Hastie: Shadow Minister for Defence,5,1,0.0,0.0,4,0,0,0
 20,Andrew Wilkie: Independent MP from Tasmania,4,1,0.0,0.0,6,0,0,0
-21,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,3,5,1.0,0.0,3,0,0,0
+21,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,3,5,1.0,1.0,3,0,0,0
 22,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,3,5,1.0,0.0,2,0,0,0
 23,Stephen Jones: Assistant Treasurer; Minister for Financial Services,3,1,0.0,0.0,10,0,0,0
 24,Jason Clare: Minister for Education,3,2,2.0,0.0,4,0,0,0
@@ -40,7 +40,7 @@
 38,Sussan Ley: Deputy Leader of the Opposition; Shadow Minister for Women; Shadow Minister for Industry; Skills & Training; Shadow Minister for Small & Family Business,1,0,0.0,0.0,2,0,0,0
 39,Anthony Chisholm: Assistant Minister for Education; Assistant Minister for Regional Development,1,0,0.0,0.0,1,0,0,0
 40,Clare o'Niel: Minister for Home Affairs; Minister for Cyber Security,1,0,0.0,0.0,0,0,0,0
-41,Kristy McBain: Minister for Regional Development; Local Government & Territories,1,3,1.0,1.0,3,0,0,0
+41,Kristy McBain: Minister for Regional Development; Local Government & Territories,1,3,1.0,2.0,3,0,0,0
 42,Kevin Hogan: Shadow Minister for Trade & Tourism; Deputy Manager of Opposition Business in the House,1,0,0.0,0.0,2,0,0,0
 43,Michael Sukkar: Shadow Minister for SocialServices; Shadow Minister for the National Disability Insurance Scheme; Shadow Minister for Housing; Shadow Minister for Homelessness,1,1,0.0,0.0,1,0,0,0
 44,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,1,2,0.0,0.0,1,0,0,0
