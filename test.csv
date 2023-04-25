@@ -1,12 +1,12 @@
 ,Politicians,"April 18, 2023","April 24, 2023","April 25, 2023","April 23, 2023","April 22, 2023","April 21, 2023","April 20, 2023","April 19, 2023"
 0,Jim Chalmers: Treasurer,28,4.0,1.0,7.0,6.0,27.0,53.0,12
-1,Anthony Albanese: Prime Minister,24,31.0,1.0,21.0,7.0,10.0,20.0,15
-2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,17,8.0,0.0,7.0,4.0,5.0,6.0,7
+1,Anthony Albanese: Prime Minister,24,31.0,2.0,21.0,7.0,10.0,20.0,15
+2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,17,8.0,1.0,7.0,4.0,5.0,6.0,7
 3,Chris Bowen: Minister for Climate Change & Energy,16,9.0,0.0,6.0,4.0,4.0,4.0,7
 4,Mark Butler: Minister for Health & Aged Care,15,6.0,0.0,12.0,4.0,7.0,13.0,8
 5,Peter Dutton: Leader of the Opposition,14,19.0,0.0,9.0,2.0,0.0,1.0,4
 6,Tanya Plibesek: Minister for the Environment & Water,13,7.0,0.0,8.0,2.0,5.0,4.0,6
-7,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,10,3.0,0.0,3.0,1.0,0.0,3.0,5
+7,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,10,3.0,1.0,3.0,1.0,0.0,3.0,5
 8,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,9,4.0,0.0,7.0,4.0,11.0,9.0,10
 9,Penny Wong: Minister for Foreign Affairs,9,11.0,0.0,12.0,5.0,3.0,13.0,8
 10,Simon Birmingham: Shadow Minister for Foreign Affairs,8,5.0,0.0,6.0,2.0,2.0,14.0,5
@@ -19,8 +19,8 @@
 17,David Littleproud: Shadow Minister for Agriculture,5,3.0,0.0,2.0,0.0,2.0,2.0,2
 18,Marise Payne: Shadow Cabinet Secretary,5,6.0,0.0,4.0,4.0,1.0,6.0,1
 19,Andrew Hastie: Shadow Minister for Defence,5,5.0,1.0,1.0,4.0,1.0,0.0,1
-20,Andrew Wilkie: Independent MP from Tasmania,4,3.0,0.0,1.0,2.0,0.0,0.0,1
-21,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,3,3.0,0.0,1.0,2.0,2.0,1.0,5
+20,Andrew Wilkie: Independent MP from Tasmania,4,3.0,1.0,1.0,2.0,0.0,0.0,1
+21,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,3,3.0,1.0,1.0,2.0,2.0,1.0,5
 22,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,3,7.0,0.0,1.0,1.0,1.0,1.0,5
 23,Stephen Jones: Assistant Treasurer; Minister for Financial Services,3,0.0,0.0,0.0,0.0,0.0,0.0,0
 24,Jason Clare: Minister for Education,3,6.0,0.0,4.0,1.0,0.0,2.0,2
@@ -44,5 +44,5 @@
 42,Kevin Hogan: Shadow Minister for Trade & Tourism; Deputy Manager of Opposition Business in the House,1,2.0,0.0,0.0,1.0,0.0,0.0,0
 43,Michael Sukkar: Shadow Minister for SocialServices; Shadow Minister for the National Disability Insurance Scheme; Shadow Minister for Housing; Shadow Minister for Homelessness,1,1.0,0.0,0.0,0.0,1.0,0.0,1
 44,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,1,1.0,0.0,3.0,0.0,1.0,0.0,2
-45,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,1,3.0,0.0,0.0,0.0,2.0,0.0,3
+45,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,1,3.0,1.0,0.0,0.0,2.0,0.0,3
 46,Tony Burke: Minister for Employment; Workplace Relations Minister for the Arts,1,3.0,0.0,0.0,0.0,0.0,1.0,1
