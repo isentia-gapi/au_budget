@@ -1,11 +1,12 @@
 Topics,Tier,Social,News Media
-Productivity,Tier 2,1,0
-Infrastucture projects,Tier 2,4,0
-Housing,Tier 2,6,0
-Health and hospital spending,Tier 1,18,1
-Disability,Tier 2,8,0
-Defence spending,Tier 1,1,0
-Cost of living,Tier 1,21,1
-Climate change,Tier 1,8,0
-Austerity measures,Tier 1,29,0
-Aged care,Tier 2,3,0
+Productivity,Tier 2,1,8
+Infrastucture projects,Tier 2,4,18
+Housing,Tier 2,6,19
+Health and hospital spending,Tier 1,18,36
+Energy costs,Tier 1,0,1
+Disability,Tier 2,8,10
+Defence spending,Tier 1,1,4
+Cost of living,Tier 1,21,34
+Climate change,Tier 1,8,5
+Austerity measures,Tier 1,29,26
+Aged care,Tier 2,3,10
