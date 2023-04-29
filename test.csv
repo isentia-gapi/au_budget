@@ -1,5 +1,5 @@
 ,Politicians,"April 24, 2023","April 27, 2023","April 29, 2023","April 28, 2023","April 26, 2023","April 25, 2023","April 23, 2023","April 22, 2023"
-0,Anthony Albanese: Prime Minister,31,25.0,16.0,21.0,16.0,7,21,0
+0,Anthony Albanese: Prime Minister,31,25.0,18.0,21.0,16.0,7,21,0
 1,Peter Dutton: Leader of the Opposition,19,1.0,2.0,0.0,4.0,0,9,0
 2,Murray Watt: Minister for Agriculture; Fisheries & Forestry; Minister for Emergency Management,11,4.0,1.0,1.0,2.0,2,3,0
 3,Penny Wong: Minister for Foreign Affairs,11,7.0,2.0,3.0,9.0,3,12,0
@@ -12,14 +12,14 @@
 10,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,7,8.0,1.0,4.0,0.0,0,1,0
 11,Tanya Plibesek: Minister for the Environment & Water,7,9.0,2.0,5.0,1.0,0,8,0
 12,Jason Clare: Minister for Education,6,2.0,0.0,0.0,1.0,0,4,0
-13,Marise Payne: Shadow Cabinet Secretary,6,3.0,2.0,2.0,5.0,3,4,0
-14,Mark Butler: Minister for Health & Aged Care,6,21.0,13.0,10.0,9.0,1,12,0
+13,Marise Payne: Shadow Cabinet Secretary,6,3.0,3.0,2.0,5.0,3,4,0
+14,Mark Butler: Minister for Health & Aged Care,6,21.0,15.0,10.0,9.0,1,12,0
 15,Simon Birmingham: Shadow Minister for Foreign Affairs,5,2.0,3.0,1.0,5.0,1,6,0
 16,Andrew Hastie: Shadow Minister for Defence,5,1.0,0.0,0.0,0.0,3,1,0
 17,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,4,27.0,0.0,0.0,5.0,0,7,0
 18,Michelle Rowland: Minister for Communications,4,1.0,0.0,0.0,1.0,0,5,0
 19,David Pocock: Independent Senator for the ACT,4,4.0,0.0,0.0,0.0,0,0,0
-20,Jim Chalmers: Treasurer,4,11.0,4.0,2.0,7.0,2,7,0
+20,Jim Chalmers: Treasurer,4,11.0,6.0,2.0,7.0,2,7,0
 21,Ed Husic: Minister for Industry & Science,3,1.0,1.0,0.0,0.0,0,3,0
 22,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,3,2.0,1.0,1.0,1.0,3,1,0
 23,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,3,1.0,1.0,2.0,3.0,2,3,0
@@ -40,6 +40,6 @@
 38,Anthony Chisholm: Assistant Minister for Education; Assistant Minister for Regional Development,1,1.0,0.0,0.0,0.0,0,0,0
 39,Anika Wells: Minister for Aged Care; Minister for Sport,1,2.0,0.0,0.0,0.0,0,0,0
 40,Michael Sukkar: Shadow Minister for SocialServices; Shadow Minister for the National Disability Insurance Scheme; Shadow Minister for Housing; Shadow Minister for Homelessness,1,0.0,0.0,0.0,0.0,0,0,0
-41,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,1,2.0,1.0,0.0,1.0,0,3,0
+41,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,1,2.0,2.0,0.0,1.0,0,3,0
 42,Ged Kearney: Assistant Minister for Health & Aged Care,1,0.0,0.0,0.0,0.0,0,0,0
 43,Justine Elliot: Assistant Minister for Social Services; Assistant Minister for the Prevention of Family Violence,1,0.0,0.0,0.0,0.0,0,0,0
