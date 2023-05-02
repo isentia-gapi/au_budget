@@ -1,27 +1,27 @@
 ,Politicians,"April 30, 2023","May 01, 2023","May 02, 2023","April 29, 2023","April 28, 2023","April 27, 2023","April 26, 2023","April 25, 2023"
-0,Anthony Albanese: Prime Minister,33,48,1.0,29,21,25,16,7
-1,Jim Chalmers: Treasurer,21,20,0.0,11,2,11,7,2
-2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,16,9,0.0,7,4,12,9,1
-3,Chris Bowen: Minister for Climate Change & Energy,13,10,0.0,5,2,3,3,2
-4,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,12,11,0.0,0,7,27,5,0
-5,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,12,19,0.0,1,1,2,1,3
-6,Penny Wong: Minister for Foreign Affairs,10,12,1.0,7,3,7,9,3
+0,Anthony Albanese: Prime Minister,33,48,5.0,29,21,25,16,7
+1,Jim Chalmers: Treasurer,21,20,4.0,11,2,11,7,2
+2,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,16,9,1.0,7,4,12,9,1
+3,Chris Bowen: Minister for Climate Change & Energy,13,10,1.0,5,2,3,3,2
+4,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,12,11,1.0,0,7,27,5,0
+5,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,12,19,1.0,1,1,2,1,3
+6,Penny Wong: Minister for Foreign Affairs,10,12,5.0,7,3,7,9,3
 7,Tanya Plibesek: Minister for the Environment & Water,9,10,0.0,7,5,9,1,0
-8,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,9,13,0.0,2,0,4,3,0
+8,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,9,13,1.0,2,0,4,3,0
 9,David Littleproud: Shadow Minister for Agriculture,8,1,0.0,1,1,1,3,1
-10,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,8,8,0.0,1,2,1,3,2
-11,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,8,16,0.0,2,4,8,0,0
+10,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,8,8,1.0,1,2,1,3,2
+11,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,8,16,1.0,2,4,8,0,0
 12,Mark Dreyfus: Attorney-General Cabinet Secretary,8,2,0.0,5,0,3,1,1
-13,Mark Butler: Minister for Health & Aged Care,7,23,1.0,24,10,21,9,1
+13,Mark Butler: Minister for Health & Aged Care,7,23,3.0,24,10,21,9,1
 14,Tony Burke: Minister for Employment; Workplace Relations Minister for the Arts,7,6,0.0,0,0,0,0,0
-15,Michelle Rowland: Minister for Communications,6,4,0.0,2,2,1,1,0
+15,Michelle Rowland: Minister for Communications,6,4,1.0,2,2,1,1,0
 16,Don Farrell: Minister for Trade & Tourism; Special Minister of State,6,0,0.0,0,1,3,3,0
 17,Marise Payne: Shadow Cabinet Secretary,6,2,0.0,4,2,3,5,3
 18,Andrew Leigh: Assistant Minister for Competition; Charities & Treasury,5,4,0.0,1,1,2,5,0
 19,Murray Watt: Minister for Agriculture; Fisheries & Forestry; Minister for Emergency Management,5,4,0.0,1,1,4,2,2
-20,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,5,4,1.0,0,1,2,1,2
-21,Kristy McBain: Minister for Regional Development; Local Government & Territories,5,9,1.0,1,2,8,2,0
-22,Simon Birmingham: Shadow Minister for Foreign Affairs,4,9,1.0,5,1,2,5,1
+20,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,5,4,2.0,0,1,2,1,2
+21,Kristy McBain: Minister for Regional Development; Local Government & Territories,5,9,2.0,1,2,8,2,0
+22,Simon Birmingham: Shadow Minister for Foreign Affairs,4,9,2.0,5,1,2,5,1
 23,Andrew Hastie: Shadow Minister for Defence,4,1,0.0,0,0,1,0,3
 24,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,4,2,0.0,2,0,2,1,0
 25,Barnaby Joyce: Shadow Minister for Veterans’Affairs,3,8,0.0,4,0,0,1,0
@@ -33,7 +33,7 @@
 31,Andrew Giles: Minister for Immigration; Citizenship & Multicultural Affairs,2,0,0.0,1,4,1,1,0
 32,Anthony Chisholm: Assistant Minister for Education; Assistant Minister for Regional Development,2,0,0.0,0,0,1,0,0
 33,Anne Aly: Minister for Early Childhood Education; Minister for Youth,2,3,1.0,0,2,2,2,1
-34,Peter Dutton: Leader of the Opposition,2,2,0.0,3,0,1,4,0
+34,Peter Dutton: Leader of the Opposition,2,2,1.0,3,0,1,4,0
 35,Sarah Henderson: Shadow Minister for Education,2,0,0.0,0,1,1,0,0
 36,Angus Taylor: Shadow Treasurer,2,1,0.0,3,1,2,4,1
 37,David Pocock: Independent Senator for the ACT,1,1,0.0,0,0,4,0,0
