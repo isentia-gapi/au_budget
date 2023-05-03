@@ -3,12 +3,11 @@ Federal Budget,Budget
 Federal Budget,2023
 Federal Budget,United States federal budget
 Federal Budget,Australian federal budget
-Federal Budget,2024
-Austerity,Government
-Austerity,United States
-Austerity,Australian government debt
+Federal Budget,Calendar date
 Austerity,Gross domestic product
-Austerity,Bond
+Austerity,Government bond
+Austerity,Victoria
+Austerity,Australian government debt
 Cost of living,Rate
 Cost of living,Loan
 Cost of living,Bank
@@ -17,4 +16,3 @@ Cost of living,Savings
 Energy Costs,Electricity pricing
 Energy Costs,Price
 Energy Costs,New South Wales
-Defense Spending ,Armed forces
