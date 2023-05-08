@@ -1,44 +1,48 @@
-,Politicians,"May 07, 2023","May 08, 2023","May 06, 2023","May 05, 2023","May 04, 2023","May 03, 2023","May 02, 2023","May 01, 2023"
-0,Jim Chalmers: Treasurer,54,56,19,29,17,46,23,20
-1,Anthony Albanese: Prime Minister,25,39,18,22,23,21,22,48
-2,Chris Bowen: Minister for Climate Change & Energy,19,16,13,12,6,19,3,10
-3,Penny Wong: Minister for Foreign Affairs,15,24,12,8,7,12,13,12
-4,Angus Taylor: Shadow Treasurer,12,0,10,6,11,7,7,1
-5,Ed Husic: Minister for Industry & Science,11,5,6,2,3,2,2,19
-6,Mark Dreyfus: Attorney-General Cabinet Secretary,11,9,10,2,1,5,3,2
-7,Tanya Plibesek: Minister for the Environment & Water,9,18,8,5,7,7,5,10
-8,Jason Clare: Minister for Education,9,5,9,1,1,1,2,2
-9,Simon Birmingham: Shadow Minister for Foreign Affairs,8,8,11,7,5,10,11,9
-10,Mark Butler: Minister for Health & Aged Care,8,18,7,12,17,18,19,23
-11,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,7,15,2,8,10,14,9,9
-12,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,7,31,0,14,9,14,5,11
-13,Amanda Rishworth: Minister for Social Services,6,1,2,2,2,1,1,0
-14,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,6,12,2,4,4,13,9,13
-15,Madeline King: Minister for Resources; Minister for Northern Australia,5,1,0,0,1,1,0,3
-16,Murray Watt: Minister for Agriculture; Fisheries & Forestry; Minister for Emergency Management,5,4,3,0,0,3,3,4
-17,Sarah Henderson: Shadow Minister for Education,5,2,4,2,1,2,2,0
-18,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,5,0,1,1,8,3,1,2
-19,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,5,8,1,0,2,3,6,16
-20,Andrew Hastie: Shadow Minister for Defence,5,1,8,3,0,2,1,1
-21,Don Farrell: Minister for Trade & Tourism; Special Minister of State,4,3,1,0,2,1,2,0
-22,Michelle Rowland: Minister for Communications,4,2,4,4,3,2,3,4
-23,Ged Kearney: Assistant Minister for Health & Aged Care,3,1,4,3,12,1,0,0
-24,Andrew Giles: Minister for Immigration; Citizenship & Multicultural Affairs,3,1,5,2,1,0,2,0
-25,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,3,2,5,1,37,2,4,4
-26,David Littleproud: Shadow Minister for Agriculture,3,0,6,3,0,4,4,1
-27,Kevin Hogan: Shadow Minister for Trade & Tourism; Deputy Manager of Opposition Business in the House,2,0,1,1,0,0,1,0
-28,Sussan Ley: Deputy Leader of the Opposition; Shadow Minister for Women; Shadow Minister for Industry; Skills & Training; Shadow Minister for Small & Family Business,2,3,1,0,1,2,3,0
-29,Andrew Wilkie: Independent MP from Tasmania,2,0,5,1,2,1,1,1
-30,Barnaby Joyce: Shadow Minister for Veterans’Affairs,2,2,2,3,2,4,0,8
-31,Pat Conroy: Minister for Defence Industry; Minister for International Development & the Pacific,2,4,7,1,0,5,3,0
-32,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,2,3,1,7,5,2,2,19
-33,Kristy McBain: Minister for Regional Development; Local Government & Territories,2,0,5,5,41,3,5,9
-34,Marise Payne: Shadow Cabinet Secretary,2,2,9,4,4,6,4,2
-35,David Pocock: Independent Senator for the ACT,2,0,4,1,2,2,0,1
-36,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,1,7,5,5,7,6,4,8
-37,Anthony Chisholm: Assistant Minister for Education; Assistant Minister for Regional Development,1,0,1,0,0,1,0,0
-38,Anne Aly: Minister for Early Childhood Education; Minister for Youth,1,2,2,3,34,0,2,3
-39,Richard Marles: Deputy Prime Minister; Minister for Defence,1,1,5,1,0,2,1,0
-40,Anika Wells: Minister for Aged Care; Minister for Sport,1,0,1,2,37,0,0,6
-41,Justine Elliot: Assistant Minister for Social Services; Assistant Minister for the Prevention of Family Violence,1,0,1,0,1,0,0,0
-42,Tony Burke: Minister for Employment; Workplace Relations Minister for the Arts,1,4,1,0,1,1,2,6
+,Politicians,"May 08, 2023","May 07, 2023","May 06, 2023","May 05, 2023","May 04, 2023","May 03, 2023","May 02, 2023","May 01, 2023"
+0,Jim Chalmers: Treasurer,92,54,19,29,17,46,23,0
+1,Anthony Albanese: Prime Minister,73,25,18,22,23,21,22,0
+2,Katy Gallagher: Minister for Finance; Minister for Women; Minister for Public Service,63,7,0,14,9,14,5,0
+3,Penny Wong: Minister for Foreign Affairs,43,15,12,8,7,12,13,0
+4,Bill Shorten: Minister for the National Disability Insurance Scheme; Minister for Government Services,42,7,2,8,10,14,9,0
+5,Mark Butler: Minister for Health & Aged Care,41,8,7,12,17,18,19,0
+6,Tanya Plibesek: Minister for the Environment & Water,35,9,8,5,7,7,5,0
+7,Chris Bowen: Minister for Climate Change & Energy,29,19,13,12,6,19,3,0
+8,Jane Hume: Shadow Minister for the Public Service; Shadow Minister for Finance; Shadow Special Minister of State,24,6,2,4,4,13,9,0
+9,Simon Birmingham: Shadow Minister for Foreign Affairs,22,8,11,7,5,10,11,0
+10,Mark Dreyfus: Attorney-General Cabinet Secretary,19,11,10,2,1,5,3,0
+11,Julie Collins: Minister for Housing; Minister for Homelessness; Minister for Small Business,18,5,1,0,2,3,6,0
+12,Karen Andrews: Shadow Minister for Home Affairs; Shadow Minister for Child Protection & the Prevention of Family Violence,12,1,5,5,7,6,4,0
+13,Don Farrell: Minister for Trade & Tourism; Special Minister of State,12,4,1,0,2,1,2,0
+14,Marise Payne: Shadow Cabinet Secretary,10,2,9,4,4,6,4,0
+15,Ed Husic: Minister for Industry & Science,9,11,6,2,3,2,2,0
+16,Pat Conroy: Minister for Defence Industry; Minister for International Development & the Pacific,8,2,7,1,0,5,3,0
+17,Peter Dutton: Leader of the Opposition,8,0,10,10,5,5,5,0
+18,Jason Clare: Minister for Education,8,9,9,1,1,1,2,0
+19,Tony Burke: Minister for Employment; Workplace Relations Minister for the Arts,8,1,1,0,1,1,2,0
+20,David Littleproud: Shadow Minister for Agriculture,8,3,6,3,0,4,4,0
+21,Andrew Leigh: Assistant Minister for Competition; Charities & Treasury,8,0,1,8,6,4,2,0
+22,Murray Watt: Minister for Agriculture; Fisheries & Forestry; Minister for Emergency Management,7,5,3,0,0,3,3,0
+23,Bridget Mckenzie: Shadow Minister for Infrastructure; Transport & Regional Development,7,2,1,7,5,2,2,0
+24,Michelle Rowland: Minister for Communications,7,4,4,4,3,2,3,0
+25,Kristy McBain: Minister for Regional Development; Local Government & Territories,6,2,5,5,41,3,5,0
+26,Sussan Ley: Deputy Leader of the Opposition; Shadow Minister for Women; Shadow Minister for Industry; Skills & Training; Shadow Minister for Small & Family Business,6,2,1,0,1,2,3,0
+27,Matt Keogh: Minister for Veterans’ Affairs; Minister for Defence Personnel,5,3,5,1,37,2,4,0
+28,Sarah Henderson: Shadow Minister for Education,5,5,4,2,1,2,2,0
+29,Angus Taylor: Shadow Treasurer,5,12,10,6,11,7,7,0
+30,Barnaby Joyce: Shadow Minister for Veterans’Affairs,5,2,2,3,2,4,0,0
+31,Anne Aly: Minister for Early Childhood Education; Minister for Youth,5,1,2,3,34,0,2,0
+32,Richard Marles: Deputy Prime Minister; Minister for Defence,4,1,5,1,0,2,1,0
+33,Amanda Rishworth: Minister for Social Services,4,6,2,2,2,1,1,0
+34,Andrew Hastie: Shadow Minister for Defence,3,5,8,3,0,2,1,0
+35,Ged Kearney: Assistant Minister for Health & Aged Care,3,3,4,3,12,1,0,0
+36,Andrew Wilkie: Independent MP from Tasmania,3,2,5,1,2,1,1,0
+37,Andrew Giles: Minister for Immigration; Citizenship & Multicultural Affairs,3,3,5,2,1,0,2,0
+38,David Pocock: Independent Senator for the ACT,3,2,4,1,2,2,0,0
+39,Matt Thistlewaite: Assistant Minister for Defence; Assistant Minister for Veterans’ Affairs; Assistant Minister for the Republic,2,5,1,1,8,3,1,0
+40,Madeline King: Minister for Resources; Minister for Northern Australia,2,5,0,0,1,1,0,0
+41,Michael Sukkar: Shadow Minister for SocialServices; Shadow Minister for the National Disability Insurance Scheme; Shadow Minister for Housing; Shadow Minister for Homelessness,1,0,0,2,2,1,1,0
+42,Anthony Chisholm: Assistant Minister for Education; Assistant Minister for Regional Development,1,1,1,0,0,1,0,0
+43,Anika Wells: Minister for Aged Care; Minister for Sport,1,1,1,2,37,0,0,0
+44,Kevin Hogan: Shadow Minister for Trade & Tourism; Deputy Manager of Opposition Business in the House,1,2,1,1,0,0,1,0
+45,Clare o'Niel: Minister for Home Affairs; Minister for Cyber Security,1,0,0,0,0,0,0,0
+46,Justine Elliot: Assistant Minister for Social Services; Assistant Minister for the Prevention of Family Violence,1,1,1,0,1,0,0,0
