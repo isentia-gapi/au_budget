@@ -1,12 +1,13 @@
 Topics,Tier,Social,News Media
-Voice to parliament,Tier 1,0,1
-Infrastucture projects,Tier 2,0,9
-Housing,Tier 2,0,14
-Health and hospital spending,Tier 1,1,21
-Energy costs,Tier 1,0,1
-Disability,Tier 2,0,11
-Defence spending,Tier 1,0,5
-Cost of living,Tier 1,1,18
-Climate change,Tier 1,0,3
-Austerity measures,Tier 1,1,25
-Aged care,Tier 2,0,6
+Voice to parliament,Tier 1,3,1
+Productivity,Tier 2,5,0
+Infrastucture projects,Tier 2,6,9
+Housing,Tier 2,15,14
+Health and hospital spending,Tier 1,21,21
+Disability,Tier 2,10,11
+Defence spending,Tier 1,4,5
+Cyber security,Tier 2,2,0
+Cost of living,Tier 1,27,18
+Climate change,Tier 1,10,3
+Austerity measures,Tier 1,41,25
+Aged care,Tier 2,6,6
